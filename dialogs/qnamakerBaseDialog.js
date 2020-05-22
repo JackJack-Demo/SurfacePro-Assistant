@@ -12,7 +12,7 @@ const {
 // Default parameters
 const DefaultThreshold = 0.3;
 const DefaultTopN = 3;
-const DefaultNoAnswer = 'No QnAMaker answers found.';
+const DefaultNoAnswer = 'Sorry I could not help you, I am trying to learn';
 
 // Card parameters
 const DefaultCardTitle = 'Did you mean:';
